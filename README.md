@@ -20,7 +20,7 @@ The analysis assumes that the Samsung data is in your working directory.
 
 The output of the data is saved in a txt file labelled "my_samsung_data"   
 
-A Code book is provided in the Github Repo, under the heading "Results of Running the run_analysis.R Script"   
+A Code book is provided in the Github Repo, with the changes related to this script under the heading "Results of Running the run_analysis.R Script"   
 
 ## Background
 
