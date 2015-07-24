@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## run_analysis.R
 
