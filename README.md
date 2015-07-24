@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+Project Notes
+====
 
 ## run_analysis.R
 
